@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_project_day1.iml" filepath="$PROJECT_DIR$/java_project_day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project_day10/java_project_day10.iml" filepath="$PROJECT_DIR$/../java_project_day10/java_project_day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project_day11/java_project_day11.iml" filepath="$PROJECT_DIR$/../java_project_day11/java_project_day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project_day2/java_project_day2.iml" filepath="$PROJECT_DIR$/../java_project_day2/java_project_day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project_day3/java_project_day3.iml" filepath="$PROJECT_DIR$/../java_project_day3/java_project_day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project_day4/java_project_day4.iml" filepath="$PROJECT_DIR$/../java_project_day4/java_project_day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project_day5/java_project_day5.iml" filepath="$PROJECT_DIR$/../java_project_day5/java_project_day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project_day6/java_project_day6.iml" filepath="$PROJECT_DIR$/../java_project_day6/java_project_day6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project_day7/java_project_day7.iml" filepath="$PROJECT_DIR$/../java_project_day7/java_project_day7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project_day8/java_project_day8.iml" filepath="$PROJECT_DIR$/../java_project_day8/java_project_day8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_project_day9/java_project_day9.iml" filepath="$PROJECT_DIR$/../java_project_day9/java_project_day9.iml" />
+    </modules>
+  </component>
+</project>
